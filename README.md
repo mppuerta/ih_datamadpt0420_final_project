@@ -56,6 +56,12 @@ Requeriments, prerequisites, dependencies, installation instructions.
         ├── gpt2_haiku_preprocessing.ipynb
         └── gpt2_haiku_train-ipynb
 
+
+### **Update**
+
+Added a Markov Chains model to generate song lyrics.
+
+
 ```
 
 
